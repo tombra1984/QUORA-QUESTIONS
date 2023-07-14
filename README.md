@@ -10,6 +10,7 @@ This project looks at using other classifiers to identify the duplicated questio
 A variety of classifers were used ranging from logistic regression to ensemble methods. However, it was observed that the XGBoost model was the best performing claasifier with an accuracy of 0.71 and a precision of 0.65. 
 
 
+
 ![classification report](https://github.com/tombra1984/QUORA-QUESTIONS/assets/127909963/eaa18beb-f14d-45f9-acad-b9c61e4b6b65)
 
 
