@@ -7,7 +7,7 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 
 This project looks at using other classifiers to identify the duplicated questions and the performance of the classifier at performing the task.The models built will automatically identify and label questions as duplicate or not.
 
-A variety of classifers were used ranging from logistic regression to ensemble methods. However, it was observed that the XGBoost model was the best performing claasifier with an accuracy of 0.71 and a precision of 0.65. 
+A variety of classifers were used ranging from logistic regression to ensemble methods. However, it was observed that the XGBoost model was the best performing claasifier with an accuracy of 0.71 and a precision of 0.65 and 0.73. 
 
 
 
