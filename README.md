@@ -7,7 +7,7 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 
 This project looks at using other classifiers to identify the duplicated questions and the performance of the classifier at performing the task.The models built will automatically identify and label questions as duplicate or not.
 
-A variety of classifers were used ranging from logistic regression to ensemble methods. However, it was observed that the logistic regression model was the best performing classifier. Although it was a very tight contest as the XGBoost classifier also performed almost at per with the logistic regression model 
+A variety of classifers were used ranging from logistic regression to ensemble methods. However, it was observed that the logistic regression model was the best performing classifier. Although it was a very tight contest as the XGBoost classifier also performed almost at par with the logistic regression model 
 
 
 
