@@ -28,7 +28,7 @@ In order to determine which model performed better, these factors were considere
 
 4. Accuracy: Both models have the same accuracy (0.71), which measures the overall correctness of the predictions across all classes.
 
-Considering the precision, recall, and F1-score, Logistic Regression model appears to perform slightly better than XGBoost classification model. It achieves higher scores for both classes and has a better balance between precision and recall. 
+Considering the precision, recall, and F1-score, Logistic Regression model appeared to perform slightly better than XGBoost classification model. It achieves higher scores for both classes and has a better balance between precision and recall. 
 
 
 ### Data
