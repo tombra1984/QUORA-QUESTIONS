@@ -10,7 +10,7 @@ This project looks at using other classifiers to identify the duplicated questio
 A variety of classifers were used ranging from logistic regression to ensemble methods. However, it was observed that the logistic regression model was the best performing classifier. Although it was a very tight contest as the XGBoost classifier also performed almost at par with the logistic regression model as seen below. 
 
 
-
+REGRESSION MODEL CLASSIFICATION REPORT
 ![classification report](https://github.com/tombra1984/QUORA-QUESTIONS/assets/127909963/eaa18beb-f14d-45f9-acad-b9c61e4b6b65)
 
 
